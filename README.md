@@ -1,7 +1,7 @@
 # Advanced Machine Learning - Introdution to Deep Learning
 
 # Week 1
-**1) Program Assigmnent**
+**1) Program Assignment**
      -  Predict tags on StackOverflow with linear models
      - In this assignment you will learn how to predict tags for posts from StackOverflow. To solve this task you will use multilabel classification approach.
 
@@ -12,7 +12,7 @@
 - Use linear models for classification and regression tasks
 
 # Week 2
-**1) Program Assigmnent**
+**1) Program Assignment**
 - In this assignment, you will use a recurrent neural network to solve Named Entity Recognition (NER) problem. NER is a common task in natural language processing systems. It serves for extraction such entities from the text as persons, organizations, locations, etc. In this task you will experiment to recognize named entities from Twitter.
 
 
@@ -25,7 +25,7 @@
 
 # Week 3
 
-**1) Program Assigmnent**
+**1) Program Assignment**
 - In this assignment you will learn how to calculate a similarity for pieces of text. Using this approach you will know how to find duplicate questions from StackOverflow.
    
 **2) Goals of the week**
@@ -36,7 +36,7 @@
 
 # Week 4
 
-**1) Program Assigmnent**
+**1) Program Assignment**
 - In this assignment, you will learn how to use neural networks to solve sequence-to-sequence prediction tasks. Seq2Seq models are very popular these days because they achieve great results in Machine Translation, Text Summarization, Conversational Modeling and more.
 
 - Using sequence-to-sequence modeling you are going to build a calculator for evaluating arithmetic expressions, by taking an equation as an input to the neural network and producing an answer as it's output.
@@ -51,7 +51,7 @@
 
 
 # Week 5
-**1) Program Assigmnent**
+**1) Program Assignment**
 - You will implement a conversational bot that will assist with search on StackOverflow.
    
 **2) Goals of the week**
